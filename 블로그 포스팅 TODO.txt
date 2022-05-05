@@ -1,11 +1,6 @@
 프로그래밍 표기법 (카멜, 파스칼, 스네이크, 헝가리안) ( v )
-
 Dry/Wet Code? ( v )
-
 형상관리란? ( v )
-
-<<<<<<< HEAD
 Firebase ( v )
-=======
-GitHub 사용법 ( )
->>>>>>> 6b77da19814a3533a9d28aafd0f95c1ec0771dbe
+GitHub 사용법 ( v )
+Random / Psuedo-Random ( v )
