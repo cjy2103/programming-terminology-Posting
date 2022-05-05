@@ -4,3 +4,6 @@ Dry/Wet Code? ( v )
 Firebase ( v )
 GitHub 사용법 ( v )
 Random / Psuedo-Random ( v )
+한줄 다중변수 선언의 유래 ( v )
+
+
