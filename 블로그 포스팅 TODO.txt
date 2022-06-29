@@ -7,3 +7,8 @@ Random / Psuedo-Random ( v )
 한줄 다중변수 선언의 유래 ( v )
 C언어 프로토타입 ( v )
 
+
+
+DB 관련 
+
+정규화 / 반정규화
