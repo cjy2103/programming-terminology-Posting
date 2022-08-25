@@ -18,3 +18,7 @@ DB 관련
 ============ 팁 ==========
 
 VSCode 한국어 적용 ( v )
+
+
+============= 오류 ============
+npm WARN config global --global, --local are deprecated. Use --location=global instead. ( v )
