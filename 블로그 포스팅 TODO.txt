@@ -17,7 +17,8 @@ C 메모리 구조 ( v )
 
 지도 위도, 경도 얻어오기 ( v )
 
-stable sort, in-place Algorithm ( )
+stable sort, Un Stable Sort ( v )
+in-place Algorithm, Not In-place Algorithm ( v )
 
 ====== 음악관련 =======
 스펙트로그램 ( v )
