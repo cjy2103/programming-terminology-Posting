@@ -22,7 +22,8 @@ in-place Algorithm, Not In-place Algorithm ( v )
 
 sourceTree 포스팅 ( v )
 sourceTree 브랜치 ( v )
-sourceTree 패치 (  )
+sourceTree 패치 ( v )
+sourceTree 머지 
 
 ====== 음악관련 =======
 스펙트로그램 ( v )
