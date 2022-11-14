@@ -17,7 +17,7 @@ C 메모리 구조 ( v )
 
 지도 위도, 경도 얻어오기 ( v )
 
-객체지향 프로그래밍 
+객체지향 프로그래밍 ( v )
 
 stable sort, Un Stable Sort ( v )
 in-place Algorithm, Not In-place Algorithm ( v )
