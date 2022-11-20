@@ -27,6 +27,7 @@ sourceTree 브랜치 ( v )
 sourceTree 패치 ( v )
 sourceTree 머지 
 
+DI란?
 ====== 음악관련 =======
 스펙트로그램 ( v )
 STFT , FFT 
