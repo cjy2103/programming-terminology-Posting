@@ -22,11 +22,13 @@ C 메모리 구조 ( v )
 stable sort, Un Stable Sort ( v )
 in-place Algorithm, Not In-place Algorithm ( v )
 
-OCP 원칙
+OCP 원칙 
 
 SOLID 원칙  ( v )
 API란? ( v )
 
+스트림이란? ( ) 
+패킷이란? ( )
 
 sourceTree 포스팅 ( v )
 sourceTree 브랜치 ( v )
