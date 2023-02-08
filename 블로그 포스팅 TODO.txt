@@ -30,6 +30,7 @@ JSON이란? ( v )
 
 스트림이란? ( v ) 
 패킷이란? ( )
+티스토리 400 Error , 접속안되는 문제 ( v )
 
 sourceTree 포스팅 ( v )
 sourceTree 브랜치 ( v )
