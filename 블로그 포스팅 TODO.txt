@@ -40,6 +40,8 @@ sourceTree 계정연동 ( v )
 
 ChatGpt ( v )
 
+프로퍼티란? ( v ) 
+
 ====== 음악관련 =======
 스펙트로그램 ( v )
 STFT , FFT 
