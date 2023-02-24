@@ -41,6 +41,7 @@ sourceTree 머지
 sourceTree 계정연동 ( v )
 
 ChatGpt ( v )
+동적파일, 정적파일 ( v )
 
 프로퍼티란? ( v ) 
 
