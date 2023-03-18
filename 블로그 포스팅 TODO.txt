@@ -22,7 +22,9 @@ C 메모리 구조 ( v )
 stable sort, Un Stable Sort ( v )
 in-place Algorithm, Not In-place Algorithm ( v )
 
-OCP 원칙 
+OCP 원칙 ( v )
+
+Coonection Pool / DB에서 프로시저 사용해야하는 이유 ( v )
 
 SOLID 원칙  ( v )
 API란? ( v )
