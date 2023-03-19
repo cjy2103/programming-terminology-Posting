@@ -79,6 +79,7 @@ Window FFmpeg 설치 ( v )
 손실압축, 무손실 압축 ( v )
 삼성덱스 한영변환 ( v )
 Java, Kotlin Main 파일 실행안됨, 소스파일 설정 ( v )
+개발자는 영어공부를 해야하는가? / 제2외국어 배우는게 좋은가? ( v )
 
 ============= 오류 ============
 npm WARN config global --global, --local are deprecated. Use --location=global instead. ( v )
