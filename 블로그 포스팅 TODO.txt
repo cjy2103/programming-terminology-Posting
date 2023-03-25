@@ -67,6 +67,8 @@ User-Agent ( v )
 
 AWS 오류 - Got an error reading communication packets ( v )
 
+Node.js 어떤 오류 로그 없이 DB 연결이 안 됩니다. / Got an error reading communication packets ( v )
+
 
 
 ============ 팁 ==========
