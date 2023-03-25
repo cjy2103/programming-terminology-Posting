@@ -65,7 +65,7 @@ MYSQL 문자열 변수에 숫자 넣을때 CONVERT, CAST, CONCAT 사용하는 �
 User-Agent ( v )
 모질라란? UA 구조의 기원 ( v )
 
-
+AWS 오류 - Got an error reading communication packets ( v )
 
 
 
