@@ -36,6 +36,8 @@ JSON이란? ( v )
 http, https? 차이? ( v )
 안드로이드는 프런트? 풀스택? ( v )
 
+객체지향, 함수형 프로그래밍 특징, 장단점 ( v )
+
 sourceTree 포스팅 ( v )
 sourceTree 브랜치 ( v )
 sourceTree 패치 ( v )
