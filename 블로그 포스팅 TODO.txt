@@ -51,6 +51,12 @@ ChatGpt ( v )
 
 프로퍼티란? ( v ) 
 
+오버 엔지니어링(Overengineering) 과 적정 엔지니어링(Just-enough Engineering) ( v )
+
+RESTFUL API란? ( v )
+
+
+
 서버사이드 스크립트 언어란? ( v )
 
 ====== 음악관련 =======
