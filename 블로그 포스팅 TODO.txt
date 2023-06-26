@@ -116,5 +116,9 @@ Window FFmpeg 설치 ( v )
 Java, Kotlin Main 파일 실행안됨, 소스파일 설정 ( v )
 텍스트 비교 사이트 ( v )
 
+
+====== 정보 ========
+임베디드 개발자/장비 관련 개발자들은 왜 Git을 안 쓰는 걸까? (Git 안 쓰고 다른 형상관리 시스템 쓰는 이유) ( v )
+
 ============= 오류 ============
 npm WARN config global --global, --local are deprecated. Use --location=global instead. ( v )
