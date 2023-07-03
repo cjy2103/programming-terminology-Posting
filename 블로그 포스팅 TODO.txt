@@ -124,6 +124,7 @@ Java, Kotlin Main 파일 실행안됨, 소스파일 설정 ( v )
 
 ====== 정보 ========
 임베디드 개발자/장비 관련 개발자들은 왜 Git을 안 쓰는 걸까? (Git 안 쓰고 다른 형상관리 시스템 쓰는 이유) ( v )
+AWS RDS t2, r4, m4 인스턴스가 삭제됩니다. 이전 작업하세요 ( v )
 
 ============= 오류 ============
 npm WARN config global --global, --local are deprecated. Use --location=global instead. ( v )
