@@ -70,6 +70,10 @@ DFS와 BFS 어느 것을 사용해야 하는지에 대한 기준 ( v )
 
 Context Switching ( v )
 
+PCB(Process Control Block)란? ( v )
+
+
+
 ====== 음악관련 =======
 스펙트로그램 ( v )
 STFT , FFT 
