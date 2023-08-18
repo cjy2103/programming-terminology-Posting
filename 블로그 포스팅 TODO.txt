@@ -72,7 +72,7 @@ Context Switching ( v )
 
 PCB(Process Control Block)란? ( v )
 
-해시 함수란? 
+해시 함수란? ( v )
 
 
 
