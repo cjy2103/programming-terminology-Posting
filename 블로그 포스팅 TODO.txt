@@ -144,3 +144,4 @@ npm WARN config global --global, --local are deprecated. Use --location=global i
 
 ========== AWS 오류 ============
 AWS 오류 - The requested configuration is currently not supported ( v )
+AWS 오류 - [EAI_AGAIN 오류] getaddrinfo 오류 ( v )
