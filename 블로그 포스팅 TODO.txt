@@ -158,6 +158,8 @@ AWS RDS t2, r4, m4 인스턴스가 삭제됩니다. 이전 작업하세요 ( v )
 Gpt(Ai 도구)가 개발자의 일자리를 대체할까? ( v )
 스마트 팜이란? / 스마트 팜으로 돈을 벌수있나? ( v )
 블록체인이란? / 블록체인 사용처 ( v )
+메타버스란? / 메타버스 뜻 / 버튜버 유래 ( v )
+
 
 ============= 오류 ============
 npm WARN config global --global, --local are deprecated. Use --location=global instead. ( v )
