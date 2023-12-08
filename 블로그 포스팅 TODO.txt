@@ -160,7 +160,7 @@ Gpt(Ai 도구)가 개발자의 일자리를 대체할까? ( v )
 블록체인이란? / 블록체인 사용처 ( v )
 메타버스란? / 메타버스 뜻 / 버튜버 유래 ( v )
 핀테크란? / 핀테크 뜻 ( v )
-헬스케어란? / 헬스케어 뜻
+헬스케어란? / 헬스케어 뜻 / 헬스케어 뜨는 이유 ( v )
 
 ============= 오류 ============
 npm WARN config global --global, --local are deprecated. Use --location=global instead. ( v )
