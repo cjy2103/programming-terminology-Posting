@@ -1,4 +1,4 @@
 데이터 베이스 (DB / Database) - 데이터베이스 (DB/Database)란 무엇인가? / DBMS란? ( v )
 데이터 베이스 (DB / Database) - 4대원칙 / 트랜잭션 4가지 특징 (ACID) ( v )
 DB 튜닝 기법 
-데이터 베이스 (DB / Database) - Index란? ( ) 
+데이터 베이스 (DB / Database) - Index란? ( v ) 
