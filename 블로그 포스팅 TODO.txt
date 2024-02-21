@@ -138,6 +138,7 @@ AWS 오류 - Got an error reading communication packets ( v )
 
 Node.js 어떤 오류 로그 없이 DB 연결이 안 됩니다. / Got an error reading communication packets ( v )
 
+용어설명 - 인바운드, 아웃바운드 ( v )
 
 
 ============ 팁 ==========
