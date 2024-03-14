@@ -4,3 +4,7 @@ DB 튜닝 기법 ( v )
 데이터 베이스 (DB / Database) - Index란? ( v ) 
 MySQL VARCHAR(255)를 하는 이유. / VARCHAR 길이 255 이유 ( v )
 
+RDBMS(관계형 DB) vs NoSQL ( v )
+
+
+
