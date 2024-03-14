@@ -8,7 +8,9 @@ RDBMS(관계형 DB) vs NoSQL ( v )
 
 세계 DataBase(DB) 점유율 사이트 ( v )
 
+========== MySQL ============
 MySQL 이란? ( v )
+MySQL 설치 및 세팅 가이드 ( v )
 
 
 
