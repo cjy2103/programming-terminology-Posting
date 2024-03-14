@@ -6,5 +6,7 @@ MySQL VARCHAR(255)를 하는 이유. / VARCHAR 길이 255 이유 ( v )
 
 RDBMS(관계형 DB) vs NoSQL ( v )
 
+세계 DataBase(DB) 점유율 사이트 ( v )
+
 
 
