@@ -14,8 +14,4 @@ MySQL 설치 및 세팅 가이드 ( v )
 MySQL 오류 - No Connection Established ( v )
 MySQL 오류 - MySQL Server 다운로드 실패 / 설치 실패 / Fail ( v )
 MySQL - Database 설정 시 utf8_general_ci에 대해 / utf8_general_ci 옵션? ( v )
-
-
-
-
-
+MySQL - Database 생성, 유저생성 및 권한 부여 ( v )
