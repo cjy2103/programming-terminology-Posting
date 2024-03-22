@@ -10,6 +10,8 @@ C언어 프로토타입 ( v )
 ASCII 코드 
 PostMan ( v )
 왜 통신은 미들웨어(서버)를 끼고 통신하는가? / 데이터베이스 직접 연결 통신을 하지 않는 이유 ( v )
+PostMan(포스트맨) - Cloud Agent Error : Can not send requests to localhost ( v )
+
 
 
 소프트웨어 버전 규칙 [유의적 버전] 
