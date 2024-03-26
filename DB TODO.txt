@@ -15,3 +15,6 @@ MySQL 오류 - No Connection Established ( v )
 MySQL 오류 - MySQL Server 다운로드 실패 / 설치 실패 / Fail ( v )
 MySQL - Database 설정 시 utf8_general_ci에 대해 / utf8_general_ci 옵션? ( v )
 MySQL - Database 생성, 유저생성 및 권한 부여 ( v )
+
+=========== Cassandra ============
+Apache Cassandra(아파치 카산드라)란?/ NOSQL ( v )
