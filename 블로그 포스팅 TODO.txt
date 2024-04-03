@@ -16,7 +16,8 @@ PostMan(포스트맨) - Cloud Agent Error : Can not send requests to localhost (
 
 
 
-소프트웨어 버전 규칙 [유의적 버전] 
+소프트웨어 버전 규칙 (유의적 버전)  ( v )
+
 DB 관련 
 
 
