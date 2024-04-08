@@ -18,3 +18,5 @@ MySQL - Database 생성, 유저생성 및 권한 부여 ( v )
 
 =========== Cassandra ============
 Apache Cassandra(아파치 카산드라)란?/ NOSQL ( v )
+우분투(Ubuntu) - 아파치 카산드라(Apahce Cassandra) DB 다운로드 및 세팅 ( v )
+
