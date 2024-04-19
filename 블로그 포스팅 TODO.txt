@@ -14,8 +14,6 @@ PostMan(포스트맨) - Cloud Agent Error : Can not send requests to localhost (
 우분투 서버(ubuntu server) vs 우분투 데스크톱(ubuntu desktop) / 차이 ( v )
 
 
-
-
 소프트웨어 버전 규칙 (유의적 버전)  ( v )
 
 DB 관련 
